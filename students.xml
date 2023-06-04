@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student>
+        <Name>John Doe</Name>
+        <Grade>85.5</Grade>
+    </Student>
+    <Student>
+        <Name>Jane Smith</Name>
+        <Grade>92.0</Grade>
+    </Student>
+</Students>
